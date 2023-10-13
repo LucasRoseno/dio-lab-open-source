@@ -16,7 +16,7 @@
 ⭐ Adicionando aos favoritos (**star**) 
 
 ##  Contribuindo no diretório "Community" 
- A contribuição no diretório "Community" faz parte do Desafio do lab **Contribuindo em um Projeto Open Source no GitHub** da [Digital Innovation One](https://www.dio.me/). Você pode colaborar criando um Profile README contendo informações sobre você que deseje compartilhar com a comunidade. Para isso, você pode inserir: badges indicando suas habilidades; cards com suas estatísticas no GitHub e projetos que criou, colaborou ou que deseje que outras pessoas colaborem. Além disso, você pode inserir também links para seus desafios de projeto e artigos na plataforma da [Digital Innovation One](https://www.dio.me/). <br>
+ A contribuição no diretório "Community" faz parte do Desafio do lab **Contribuindo em um Projeto Open Source no GitHub** da [Digital Innovation One](https://www.dio.me/). Você pode colaborar criando um Profile README contendo informações sobre você que deseje compartilhar. Para isso, você pode inserir: badges indicando suas habilidades; cards com suas estatísticas no GitHub e projetos que criou, colaborou ou que deseje que outras pessoas colaborem. Além disso, você pode inserir também links para seus desafios de projeto e artigos na plataforma da [Digital Innovation One](https://www.dio.me/). <br>
  Inspire-se consultando os exemplos na pasta [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community), confira alguns utilitários na pasta [`utils`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/utils) e use sua criatividade para criar o seu 😊💙.
 
 ### Instruções
@@ -39,9 +39,9 @@
 
 | Tipo de Commit | Descrição|
 | ---------------|----------|
-| `feat`         | Adiciona uma nova funcionalidade ao projeto.   |
-| `fix`          | Corrige um bug ou problema no projeto.         |
-| `docs`         | Altera a documentação do projeto. Ex.: README, comentários no código.                                            |
+| `feat`         | Adiciona uma nova funcionalidade ao PRJ.   |
+| `fix`          | Corrige um bug ou problema no PRJ.         |
+| `docs`         | Altera a documentação do PRJ. Ex.: README, comentários no código.                                            |
 | `style`        | Realiza mudanças na aparência, sem alterar a funcionalidade.                                                   |
 | `refactor`     | Realiza mudanças no código que não alteram a funcionalidade.                                                   |
 | `test`         | Adiciona ou modifica testes no projeto.        |
